@@ -1,0 +1,14 @@
+{
+  "name": "excel-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Tanzeel Ahmed Mujahid",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.14.2"
+  }
+}
